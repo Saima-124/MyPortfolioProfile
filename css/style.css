@@ -9,7 +9,7 @@ body {
   min-height: 100vh;
 }
 
-/* Header and Navigation */
+
 
 header {
   background: #ad8937;
@@ -60,7 +60,7 @@ nav {
   color: #fff;
 }
 
-/* Intro Section */
+
 
 .intro-section {
   max-width: 1000px;
@@ -101,7 +101,7 @@ nav {
   margin-bottom: 1.5rem;
 }
 
-/* Social Icons */
+
 
 .social-icons a {
   color: #7a5c00;
